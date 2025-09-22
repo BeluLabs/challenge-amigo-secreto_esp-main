@@ -1,0 +1,22 @@
+# Amigo Secreto
+
+Este proyecto es una aplicación interactiva para gestionar un sorteo de "Amigo Secreto". Permite a los usuarios agregar nombres de amigos, visualizar la lista de participantes y realizar un sorteo aleatorio para seleccionar un amigo secreto.
+
+## Propósito
+
+El objetivo principal de este proyecto es fortalecer las habilidades en lógica de programación y manipulación del DOM utilizando JavaScript. También se enfoca en la interacción entre HTML, CSS y JavaScript para crear una experiencia de usuario dinámica.
+
+## Estructura del Proyecto
+
+El proyecto está compuesto por los siguientes archivos principales:
+
+- **index.html**: Contiene la estructura HTML de la aplicación.
+- **style.css**: Define los estilos visuales de la aplicación.
+- **app.js**: Contiene la lógica principal del proyecto, incluyendo las funciones para agregar amigos, mostrar la lista y realizar el sorteo.
+- **assets/**: Carpeta que contiene imágenes y otros recursos utilizados en la aplicación.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/tu-usuario/challenge-amigo-secreto.git
